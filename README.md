@@ -1,0 +1,2 @@
+# enhanced_statml_250821022v1_fast_convergence_rates_for_subsampled_natural_grad
+AI-Generated Project: enhanced_stat.ML_2508.21022v1_Fast_Convergence_Rates_for_Subsampled_Natural_Grad - Created by WATCHDOG Multi-Agent System
